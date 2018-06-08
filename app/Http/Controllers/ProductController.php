@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Product;
+use App\ShoppingCart;
 use Illuminate\Http\Request;
 use App\Http\Resources\ProductsCollection;
 
